@@ -1,0 +1,5 @@
+# FateCheck 2027 Shorts already posted, one per line: <YYYY-MM-DD or ?> <topicKey>
+# The daily 2027 run skips any topic listed here and appends the one it schedules.
+? dhanu
+? meen
+2026-11-26 grahan
